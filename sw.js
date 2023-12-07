@@ -27,7 +27,7 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-6b5911fc48f057309037.js"
+    "url": "webpack-runtime-e785cbcd2ec8ce2180ce.js"
   },
   {
     "url": "styles.273d0e6f68aa79644d2c.css"
@@ -36,15 +36,15 @@ self.__precacheManifest = [
     "url": "framework-c6b9d3178e03852a7d83.js"
   },
   {
-    "url": "app-6e640300cf9b89138e18.js"
+    "url": "app-eb56707acbcdaa5586fc.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "1485f3a80dc3cb5fce1436a296057ace"
+    "revision": "f7ce767e49730fb39cc90c135ad13d7e"
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "2e623c4e4eb9262a2a32602dd0f0666e"
+    "revision": "6663759630bd750a7a1c093590752939"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -149,12 +149,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^/leroybrown247`), ``)
+  pathname = pathname.replace(new RegExp(`^/leroy.dev`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/leroybrown247/app-6e640300cf9b89138e18.js`))) {
+  if (!resources || !(await caches.match(`/leroy.dev/app-eb56707acbcdaa5586fc.js`))) {
     return await fetch(event.request)
   }
 
@@ -167,7 +167,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/leroybrown247/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/leroy.dev/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })
