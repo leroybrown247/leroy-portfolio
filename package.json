@@ -1,8 +1,11 @@
 {
+  "homepage": "https://leroybrown247.github.io/",
   "name": "gatsby-starter-portfolio-minimal-theme",
   "version": "1.0.0",
   "description": "A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "clean": "gatsby clean",
     "develop": "gatsby develop",
     "build": "gatsby build",
@@ -39,5 +42,8 @@
     "animations",
     "dark-mode",
     "gdpr-compliant"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^6.1.0"
+  }
 }
