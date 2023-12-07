@@ -1,58 +1,65 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "JavaScript",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "TypeScript",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "REST APIs",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "React",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "Node.js",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "Redux",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "HTML 5",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "CSS",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "ViTest",
+      "image": {
+        "src": "",
         "alt": ""
       }
     }
