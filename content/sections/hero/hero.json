@@ -1,8 +1,8 @@
 {
   "intro": "Kia ora, my name is",
   "heroPhoto": {
-    "src": "",
-    "alt": ""
+    "src": "../../images/Leroy-Brown-Logo.png",
+    "alt": "Leroy Brown Logo"
   },
   "image": {
     "src": "",

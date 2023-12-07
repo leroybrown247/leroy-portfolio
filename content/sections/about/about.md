@@ -1,6 +1,6 @@
 ---
-imageSrc: "../../images/Leroy-Brown-Logo.png"
-imageAlt: "Leroy Brown Logo"
+imageSrc: "../../images/Design.png"
+imageAlt: ""
 ---
 
 I recently graduated from Dev Academy Aotearoa, transitioning from a background in design and marketing to a solid foundation in software development.
