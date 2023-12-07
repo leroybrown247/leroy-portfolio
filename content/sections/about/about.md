@@ -1,6 +1,6 @@
 ---
-# imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-# imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/Leroy-Brown-Logo.png"
+imageAlt: "Leroy Brown Logo"
 ---
 
 I recently graduated from Dev Academy Aotearoa, transitioning from a background in design and marketing to a solid foundation in software development.

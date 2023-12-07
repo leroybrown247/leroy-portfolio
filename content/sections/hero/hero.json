@@ -1,8 +1,8 @@
 {
   "intro": "Kia ora, my name is",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
-    "alt": "My Photo"
+    "src": "",
+    "alt": ""
   },
   "image": {
     "src": "",

@@ -2,18 +2,18 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "title": "Leroy Brown Portfolio",
+    "titleTemplate": "%s · Portfolio",
+    "description": "Software developer based in Tāmaki Makaurau, Auckland. Specialising in websites, applications and everything in between.",
+    "author": "Leroy Brown",
+    "avatar": "",
+    "bio": "Love teaming up on exciting projects. Let's create something cool together.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "behance": "",
+      "github": "https://github.com/leroybrown247",
+      "medium": "",
+      "linkedin": "https://www.linkedin.com/in/leroybrown247/",
+      "mail": "mailto:leroybrown247@gmail.com"
     }
   },
   "siteConfiguration": {
@@ -22,7 +22,7 @@
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
+        { "label": "Work", "url": "/#features" },
         { "label": "Github", "url": "/#github" }
       ],
       "ctaButton": {

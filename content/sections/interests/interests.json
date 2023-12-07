@@ -42,8 +42,9 @@
         "alt": ""
       }
     },
+    
     {
-      "label": "HTML 5",
+      "label": "HTML",
       "image": {
         "src": "",
         "alt": ""
@@ -57,7 +58,28 @@
       }
     },
     {
+      "label": "SQLite3",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
       "label": "ViTest",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "GitHub",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Figma",
       "image": {
         "src": "",
         "alt": ""

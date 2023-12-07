@@ -7,8 +7,7 @@
       "description": "Built with React and combines multiple components, interactive search functionality, and requests to the Spotify API.",
       "tags": ["Spotify Web API", "Interactive Functionality"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
+        "src": "../../images/JAMN.png",
         "linkTo": "https://leroybrown247.github.io/JAMN/"
       },
       "links": [
@@ -24,18 +23,19 @@
     },
     {
       "visible": true,
-      "category": "DEVELOPER | 2023 | REACT | HTML | CSS",
+      "category": "DEVELOPER | 2023 | REACT | FIGMA",
       "title": "Boutique E-Commerce Store",
       "description": "A functional e-commerce website where users can purchase boutique bananas while critiquing designer markets.",
       "tags": ["E-Commerce Store", "Multi Day Team Project"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Banana Web Store"
+        "src": "../../images/Bnanas.png",
+        "alt": "Banana Web Store",
+        "linkTo": "https://github.com/leroybrown247/bnanas"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/leroybrown247/bnanas"
         }
       ]
     },
@@ -46,7 +46,7 @@
       "description": "Ravenous is a restaurant recommendation website that empowers users to search for local businesses based on their location and keywords utilising the YELP API.",
       "tags": ["YELP API", "Search For Local Businesses"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/Ravenous.png",
         "alt": "Quick Setup",
         "linkTo": "https://leroybrown247.github.io/RAVENOUS/"
       },
@@ -68,8 +68,9 @@
       "description": "A group project with the goal of rolling some dice and getting some funny outcomes relevant to the developer experience. Add your players and take turns rolling to see who's the best dev in the dungeon!",
       "tags": ["React", "Single Day Team Project"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Dungeons & Developers"
+        "src": "../../images/Dungeons&Developers.png",
+        "alt": "Dungeons & Developers",
+        "linkTo": "https://github.com/leroybrown247/Dungeons-and-Developers"
       },
       "links": [
         {
@@ -82,7 +83,7 @@
   "button": {
     "visible": true,
     "label": "Visit on Github",
-    "url": "https://github.com/leroybrown247"
+    "url": "https://github.com/leroybrown247/Dungeons-and-Developers"
   }
   
   
