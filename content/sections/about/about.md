@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/design.png"
+imageSrc: ""
 imageAlt: ""
 ---
 
