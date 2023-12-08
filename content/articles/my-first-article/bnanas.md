@@ -3,7 +3,7 @@ title: "Building an e-commerce website!"
 description: "In this blog post I show the process, communication, collaboration and human skills of the Dev Academy multi day final project."
 date: "2023-06-22"
 banner:
-  src: "../../images/BnanasPlanning.jpeg"
+  src: "../../images/bnanasplanning.jpeg"
   alt: "First Markdown Post"
   # caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Flo</a></u>'
 categories:
@@ -61,7 +61,7 @@ Our approach involved creating a well-structured plan for the upcoming workdays.
 
 Opting for the versatile tool Figma, we meticulously crafted wireframes and designs that would set the visual tone for our e-commerce venture.
 
-![Bnanas Project Planning](../../images/BnanasDesigning.jpg "Figma planing and design structure [caption](https://konstantin.digital).")
+![Bnanas Project Planning](../../images/bnanasdesigning.jpg "Figma planing and design structure [caption](https://konstantin.digital).")
 
 In the realm of branding and color schemes, we debated a variety of ideas, ultimately embracing a more minimalistic approach. Our goal was to ensure the website's navigation was intuitive and the overall user experience exuded seamlessness.
 
@@ -69,7 +69,7 @@ In the realm of branding and color schemes, we debated a variety of ideas, ultim
 
 Embark on the triumphant culmination of our journey as we proudly unveil the fully realised front and back ends of our e-commerce application.
 
-![Bnanas Presentation](../../images/Bnana-presentation.jpg "Project presentation [caption](https://konstantin.digital).")
+![Bnanas Presentation](../../images/bnanapresentation.jpg "Project presentation [caption](https://konstantin.digital).")
 
 Having adeptly navigated the challenges, we found ourselves ahead of schedule. This fortuitous circumstance allowed us the luxury of refining every detail, addressing any lingering bugs, and polishing features that warranted additional attention.
 

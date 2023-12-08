@@ -7,7 +7,7 @@
       "description": "Built with React and combines multiple components, interactive search functionality, and requests to the Spotify API.",
       "tags": ["Spotify Web API", "Interactive Functionality"],
       "image": {
-        "src": "../../images/JAMN.png",
+        "src": "../../images/jamn.png",
         "linkTo": "https://leroybrown247.github.io/JAMN/"
       },
       "links": [
@@ -28,7 +28,7 @@
       "description": "A functional e-commerce website where users can purchase boutique bananas while critiquing designer markets.",
       "tags": ["E-Commerce Store", "Multi Day Team Project"],
       "image": {
-        "src": "../../images/Bnanas.png",
+        "src": "../../images/bnanas.png",
         "alt": "Banana Web Store",
         "linkTo": "https://github.com/leroybrown247/bnanas"
       },
@@ -46,7 +46,7 @@
       "description": "Ravenous is a restaurant recommendation website that empowers users to search for local businesses based on their location and keywords utilising the YELP API.",
       "tags": ["YELP API", "Search For Local Businesses"],
       "image": {
-        "src": "../../images/Ravenous.png",
+        "src": "../../images/ravenous.png",
         "alt": "Quick Setup",
         "linkTo": "https://leroybrown247.github.io/RAVENOUS/"
       },
@@ -68,7 +68,7 @@
       "description": "A group project with the goal of rolling some dice and getting some funny outcomes relevant to the developer experience. Add your players and take turns rolling to see who's the best dev in the dungeon!",
       "tags": ["React", "Single Day Team Project"],
       "image": {
-        "src": "../../images/Dungeons&Developers.png",
+        "src": "../../images/DungeonsDevelopers.png",
         "alt": "Dungeons & Developers",
         "linkTo": "https://github.com/leroybrown247/Dungeons-and-Developers"
       },
