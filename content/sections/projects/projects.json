@@ -68,7 +68,7 @@
       "description": "A group project with the goal of rolling some dice and getting some funny outcomes relevant to the developer experience. Add your players and take turns rolling to see who's the best dev in the dungeon!",
       "tags": ["React", "Single Day Team Project"],
       "image": {
-        "src": "../../images/DungeonsDevelopers.png",
+        "src": "../../images/dungeonsdevelopers.png",
         "alt": "Dungeons & Developers",
         "linkTo": "https://github.com/leroybrown247/Dungeons-and-Developers"
       },
