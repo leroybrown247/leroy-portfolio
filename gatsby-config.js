@@ -1,6 +1,8 @@
 module.exports = {
   pathPrefix: "/leroy-dev",
   plugins: [
+    `gatsby-plugin-image`,
+    `gatsby-plugin-sharp`,
     {
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
