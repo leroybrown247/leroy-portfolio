@@ -1,7 +1,7 @@
 {
   "intro": "Kia ora, my name is",
   "heroPhoto": {
-    "src": "/images/leroybrownlogo.png",
+    "src": "../../images/leroybrownlogo.png",
     "alt": "Logo"
   },
   "image": {
