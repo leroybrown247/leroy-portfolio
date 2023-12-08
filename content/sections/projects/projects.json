@@ -7,7 +7,7 @@
       "description": "Built with React and combines multiple components, interactive search functionality, and requests to the Spotify API.",
       "tags": ["Spotify Web API", "Interactive Functionality"],
       "image": {
-        "src": "../../images/jamn.png",
+        "src": "../images/jamn.png",
         "linkTo": "https://leroybrown247.github.io/JAMN/"
       },
       "links": [
@@ -85,6 +85,5 @@
     "label": "Visit on Github",
     "url": "https://github.com/leroybrown247/"
   }
-  
-  
 }
+
