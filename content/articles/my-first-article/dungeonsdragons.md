@@ -1,5 +1,5 @@
 ---
-title: "Building Building a Table Top Digital Game!"
+title: "Building a table top digital game!"
 description: "Embark on an epic group project where the quest is to roll the dice and unveil hilarious outcomes that mirror the whimsical experiences of developers."
 date: "2023-09-01"
 banner:
