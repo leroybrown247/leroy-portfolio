@@ -43,7 +43,7 @@
       "visible": true,
       "category": "Developer | 2023 | React | JavaScript",
       "title": "Restaurant Recommendation Website",
-      "description": "Ravenous is a restaurant recommendation website that empowers users to search for local businesses based on their location and keywords utilising the YELP API. See iy live click link below.",
+      "description": "Ravenous is a restaurant recommendation website that empowers users to search for local businesses based on their location and keywords utilising the YELP API. See it live click link below.",
       "tags": ["YELP API", "Search For Local Businesses"],
       "image": {
         "src": "../../images/ravenous.png",
@@ -86,4 +86,3 @@
     "url": "https://github.com/leroybrown247/"
   }
 }
-
