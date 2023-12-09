@@ -4,7 +4,7 @@
       "visible": true,
       "category": "Developer | 2023 | React | JavaScript",
       "title": "Custom Spotify Playlist Builder",
-      "description": "Built with React and combines multiple components, interactive search functionality, and requests to the Spotify API.",
+      "description": "Built with React and combines multiple components, interactive search functionality, and requests to the Spotify API. Click on the links below and try it out!",
       "tags": ["Spotify Web API", "Interactive Functionality"],
       "image": {
         "src": "../../images/jamn.png",
@@ -25,7 +25,7 @@
       "visible": true,
       "category": "DEVELOPER | 2023 | REACT | FIGMA",
       "title": "Boutique E-Commerce Store",
-      "description": "A functional e-commerce website where users can purchase boutique bananas while critiquing designer markets.",
+      "description": "A functional e-commerce website where users can purchase boutique bananas while critiquing designer markets. Click the link below to view project in GitHub.",
       "tags": ["E-Commerce Store", "Multi Day Team Project"],
       "image": {
         "src": "../../images/bnanas.png",
@@ -43,7 +43,7 @@
       "visible": true,
       "category": "Developer | 2023 | React | JavaScript",
       "title": "Restaurant Recommendation Website",
-      "description": "Ravenous is a restaurant recommendation website that empowers users to search for local businesses based on their location and keywords utilising the YELP API.",
+      "description": "Ravenous is a restaurant recommendation website that empowers users to search for local businesses based on their location and keywords utilising the YELP API. See iy live click link below.",
       "tags": ["YELP API", "Search For Local Businesses"],
       "image": {
         "src": "../../images/ravenous.png",

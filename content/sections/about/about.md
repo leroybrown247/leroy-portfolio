@@ -1,6 +1,6 @@
 ---
-imageSrc: "../../images/design.png"
-imageAlt: ""
+imageSrc: ""
+imageAlt: "Logo"
 ---
 
 I recently graduated from Dev Academy Aotearoa, transitioning from a background in design and marketing to a solid foundation in software development.
