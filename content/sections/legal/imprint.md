@@ -2,7 +2,7 @@
 sectionId: imprint
 ---
 
-#### Information pursuant to § 5 TMG
+#### Information
 
 Leroy Brown<br />
 <!-- YOURSTREET<br />

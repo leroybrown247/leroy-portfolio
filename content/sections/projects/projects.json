@@ -48,7 +48,7 @@
       "image": {
         "src": "../../images/ravenous.png",
         "alt": "Quick Setup",
-        "linkTo": "https://leroybrown247.github.io/RAVENOUS/"
+        "linkTo": "https://github.com/leroybrown247/RAVENOUS"
       },
       "links": [
         {
@@ -90,6 +90,24 @@
         {
           "type": "external",
           "url": "https://www.parksupplies.co.nz"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "DESIGN & ILLUSTRATION | ADOBE CREATIVE SUITE | FIGMA ",
+      "title": "A show case of both commercial and creative works.",
+      "description": "With a background in design and illustration, I have worked on a variety of projects from branding and marketing to illustration and animation. Click the link below to view my portfolio.",
+      "tags": ["Illustration", "Design", "Motion Graphics"],
+      "image": {
+        "src": "../../images/designer-work.png",
+        "alt": "leroys design work",
+        "linkTo": "https://leroybrowncreative.myportfolio.com/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://leroybrowncreative.myportfolio.com/"
         }
       ]
     }
