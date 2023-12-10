@@ -41,6 +41,24 @@
     },
     {
       "visible": true,
+      "category": "MANAGEMENT & DESIGN | 2023 | FIGMA | HTML | CSS",
+      "title": "Company website Park Suppplies and Playgrounds",
+      "description": "Part of the team that created and managed company websites using WordPress and Elementor Pro. Also maintaining and optimising UI and UX.",
+      "tags": ["Content Management", "Design"],
+      "image": {
+        "src": "../../images/parksuppliesplaygrounds.png",
+        "alt": "Park Supplies & Playgrounds",
+        "linkTo": "https://www.parksupplies.co.nz"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://www.parksupplies.co.nz"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "Developer | 2023 | React | JavaScript",
       "title": "Restaurant Recommendation Website",
       "description": "Ravenous is a restaurant recommendation website that empowers users to search for local businesses based on their location and keywords utilising the YELP API.",
@@ -72,24 +90,6 @@
         {
           "type": "github",
           "url": "https://github.com/leroybrown247/Dungeons-and-Developers"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "MANAGEMENT & DESIGN | 2023 | FIGMA | HTML | CSS",
-      "title": "Company website Park Suppplies and Playgrounds",
-      "description": "Part of the team that created and managed company websites using WordPress and Elementor Pro. Also maintaining and optimising UI and UX.",
-      "tags": ["Content Management", "Design"],
-      "image": {
-        "src": "../../images/parksuppliesplaygrounds.png",
-        "alt": "Park Supplies & Playgrounds",
-        "linkTo": "https://www.parksupplies.co.nz"
-      },
-      "links": [
-        {
-          "type": "external",
-          "url": "https://www.parksupplies.co.nz"
         }
       ]
     },
