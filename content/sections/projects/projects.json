@@ -110,6 +110,24 @@
           "url": "https://leroybrowncreative.myportfolio.com/"
         }
       ]
+    },
+    {
+      "visible": true,
+      "category": "BLOG | PROJECT INSIGHTS ",
+      "title": "Dev Blog",
+      "description": "The blog is where I share my insights and experiences about the projects I have worked on, current projects I am working through and my observations of dev life.",
+      "tags": ["Articles", "Writing", "Current Projects"],
+      "image": {
+        "src": "../../images/dev-blog.png",
+        "alt": "leroys blog",
+        "linkTo": "https://leroybrown.netlify.app/blog/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://leroybrown.netlify.app/blog/"
+        }
+      ]
     }
   ],
   "button": {
