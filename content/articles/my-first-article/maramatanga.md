@@ -3,7 +3,7 @@ title: "Summarise and translate to Te Reo Maori"
 description: "A personal project of mine has been creating a Translator/Summariser for common use tasks such as YouTube, Webpages and PDF documents."
 date: "2023-10-22"
 banner:
-  src: "../../images/maramatanga1.png"
+  src: "../../images/maramatanga-tere.png"
   alt: "maramatanga tere"
   caption: ''
 categories:
