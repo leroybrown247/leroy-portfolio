@@ -5,10 +5,10 @@
     "alt": ""
   },
   "image": {
-    "src": "",
-    "alt": ""
+    "src": "../../images/tere-logo.png",
+    "alt": "favicon"
   },
-  "title": "Kaihanga (creator) of web things, whakawhanake (developing) digital experiences.",
+  "title": "kaihanga (creator) of web things, whakawhanake (developing) digital experiences.",
   "subtitle": {
     "prefix": "",
     "highlight": "",
