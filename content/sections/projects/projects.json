@@ -48,12 +48,12 @@
       "image": {
         "src": "../../images/maramatanga-tere.png",
         "alt": "AI Research",
-        "linkTo": "https://leroybrown.netlify.app/blog/maramatanga"
+        "linkTo": "https://leroybrown.netlify.app/my-first-article/maramatanga/"
       },
       "links": [
         {
           "type": "external",
-          "url": "https://leroybrown.netlify.app/blog/maramatanga"
+          "url": "https://leroybrown.netlify.app/my-first-article/maramatanga/"
         }
       ]
     },
