@@ -41,6 +41,24 @@
     },
     {
       "visible": true,
+      "category": "AI | RESEARCH | PREJECT PRESENTATION ",
+      "title": "Māramatanga tere - Rapid Understanding",
+      "description": "Research into creating an app to summarize and translate the URL of a YouTube video, webpage, or PDF document into Te Reo Māori - This project was presented to fellow Dev Academy students with the purpose of becoming our personal projects... Project coming soon!",
+      "tags": ["Articles", "Design", "Current Projects"],
+      "image": {
+        "src": "../../images/maramatanga-tere.png",
+        "alt": "AI Research",
+        "linkTo": ""
+      },
+      "links": [
+        {
+          "type": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "MANAGEMENT & DESIGN | 2023 | FIGMA | HTML | CSS",
       "title": "Company website Park Suppplies and Playgrounds",
       "description": "Part of the team that created and managed company websites using WordPress and Elementor Pro. Also maintaining and optimising UI and UX.",
