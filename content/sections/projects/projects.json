@@ -43,17 +43,17 @@
       "visible": true,
       "category": "AI | RESEARCH | PROJECT PRESENTATION ",
       "title": "Māramatanga tere - Rapid Understanding",
-      "description": "Research into creating an app to summarize and translate the URL of a YouTube video, webpage, or PDF document into Te Reo Māori - This project was presented to fellow Dev Academy students with the purpose of becoming our personal projects... Project coming soon!",
+      "description": "Research into creating an app to summarise and translate the URL of a YouTube video, webpage, or PDF document into Te Reo Māori - This project was presented to fellow Dev Academy students with the purpose of gaining valuable insights from our lecturers and fellow students on our personal projects.",
       "tags": ["Articles", "Design", "Current Projects"],
       "image": {
         "src": "../../images/maramatanga-tere.png",
         "alt": "AI Research",
-        "linkTo": ""
+        "linkTo": "https://leroybrown.netlify.app/blog/maramatanga"
       },
       "links": [
         {
-          "type": "",
-          "url": ""
+          "type": "external",
+          "url": "https://leroybrown.netlify.app/blog/maramatanga"
         }
       ]
     },
