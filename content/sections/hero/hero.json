@@ -1,5 +1,5 @@
 {
-  "intro": "Kia ora, my name is",
+  "intro": "Kia ora, ko Leroy Brown ahau,",
   "heroPhoto": {
     "src": "",
     "alt": ""
@@ -8,13 +8,13 @@
     "src": "",
     "alt": ""
   },
-  "title": "Leroy Brown",
+  "title": "Kaihanga (creator) of web things.",
   "subtitle": {
     "prefix": "",
-    "highlight": "Builder of web things",
+    "highlight": "Ngapuhi, Ngati Hine",
     "suffix": "."
   },
-  "description": "Software developer specialising in websites, applications and everything in between.",
+  "description": "Software developer specialising in websites, applications, oranga and everything in between.",
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": false
