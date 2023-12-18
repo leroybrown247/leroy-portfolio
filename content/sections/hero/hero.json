@@ -1,5 +1,5 @@
 {
-  "intro": "Kia ora, ko Leroy Brown ahau,",
+  "intro": "Kia ora,",
   "heroPhoto": {
     "src": "",
     "alt": ""
@@ -8,13 +8,13 @@
     "src": "../../images/tere-logo.png",
     "alt": "favicon"
   },
-  "title": "kaihanga (creator) of web things, whakawhanake (developing) digital experiences.",
+  "title": "ko Leroy Brown ahau.",
   "subtitle": {
     "prefix": "",
-    "highlight": "",
-    "suffix": "-"
+    "highlight": "Creator of web things, developing digital experiences.",
+    "suffix": ""
   },
-  "description": "Software developer specialising in websites, applications, oranga and everything in between.",
+  "description": "Software developer specialising in websites, applications, design and everything in between.",
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": false
