@@ -3,42 +3,56 @@
     {
       "label": "JavaScript",
       "image": {
-        "src": "",
+        "src": "../../images/tere-logo.png",
         "alt": ""
       }
     },
     {
       "label": "TypeScript",
       "image": {
-        "src": "",
+        "src": "../../images/tere-logo.png",
         "alt": ""
       }
     },
     {
-      "label": "REST APIs",
+      "label": "Figma",
       "image": {
-        "src": "",
+        "src": "../../images/tere-logo.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Adobe Creative Suite",
+      "image": {
+        "src": "../../images/tere-logo.png",
         "alt": ""
       }
     },
     {
       "label": "React",
       "image": {
-        "src": "",
+        "src": "../../images/tere-logo.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "REST APIs",
+      "image": {
+        "src": "../../images/tere-logo.png",
         "alt": ""
       }
     },
     {
       "label": "Node.js",
       "image": {
-        "src": "",
+        "src": "../../images/tere-logo.png",
         "alt": ""
       }
     },
     {
       "label": "Redux",
       "image": {
-        "src": "",
+        "src": "../../images/tere-logo.png",
         "alt": ""
       }
     },
@@ -46,42 +60,35 @@
     {
       "label": "HTML",
       "image": {
-        "src": "",
+        "src": "../../images/tere-logo.png",
         "alt": ""
       }
     },
     {
       "label": "CSS",
       "image": {
-        "src": "",
+        "src": "../../images/tere-logo.png",
         "alt": ""
       }
     },
     {
       "label": "SQLite3",
       "image": {
-        "src": "",
+        "src": "../../images/tere-logo.png",
         "alt": ""
       }
     },
     {
       "label": "ViTest",
       "image": {
-        "src": "",
+        "src": "../../images/tere-logo.png",
         "alt": ""
       }
     },
     {
       "label": "GitHub",
       "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Figma",
-      "image": {
-        "src": "",
+        "src": "../../images/tere-logo.png",
         "alt": ""
       }
     }
@@ -89,6 +96,6 @@
   "button": {
     "visible": true,
     "label": "+ Load More",
-    "initiallyShownInterests": 12
+    "initiallyShownInterests": 5
   }
 }

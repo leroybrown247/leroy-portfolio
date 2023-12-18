@@ -3,7 +3,7 @@ title: "Building an e-commerce website!"
 description: "In this blog post I show the process, communication, collaboration and human skills of the Dev Academy multi day final project."
 date: "2023-06-22"
 banner:
-  src: "../../images/bnanasplanning.jpeg"
+  src: "../../images/bnanas.png"
   alt: "First Markdown Post"
   # caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Flo</a></u>'
 categories:

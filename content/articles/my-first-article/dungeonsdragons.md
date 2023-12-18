@@ -3,7 +3,7 @@ title: "Building a table top digital game!"
 description: "Embark on an epic group project where the quest is to roll the dice and unveil hilarious outcomes that mirror the whimsical experiences of developers."
 date: "2023-09-01"
 banner:
-  src: "../../images/dungeonsdevelopers.jpg"
+  src: "../../images/dungeonsdevelopers.png"
   alt: "Dungeons and Developers"
   # caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Flo</a></u>'
 categories:
@@ -15,37 +15,6 @@ keywords:
   - "Agile"
   - "Blog"
 ---
-
-<!-- ## Code block test
-
-```css
-.AClass .Subtitle {
-  margin: -0.5rem 0 0 0;
-  font-weight: 700;
-  font-size: 1.25rem;
-  line-height: 1.5rem;
-}
-
-.AnotherClass p {
-  font-size: 1.125rem;
-  margin-bottom: 2rem;
-}
-
-.AThirdClass {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-}
-
-@media (max-width: 768px) {
-  .AClass {
-    flex-direction: column;
-  }
-  .AnotherClass {
-    display: block;
-  }
-}
-``` -->
 
 <!-- Inline code: `print()` -->
 
