@@ -4,7 +4,7 @@ description: "In this blog post I show the process, communication, collaboration
 date: "2023-06-22"
 banner:
   src: "../../images/bnanas.png"
-  alt: "First Markdown Post"
+  alt: "Bnanas Project"
   # caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Flo</a></u>'
 categories:
   - "Projects"
@@ -15,39 +15,6 @@ keywords:
   - "Agile"
   - "Blog"
 ---
-
-<!-- ## Code block test
-
-```css
-.AClass .Subtitle {
-  margin: -0.5rem 0 0 0;
-  font-weight: 700;
-  font-size: 1.25rem;
-  line-height: 1.5rem;
-}
-
-.AnotherClass p {
-  font-size: 1.125rem;
-  margin-bottom: 2rem;
-}
-
-.AThirdClass {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-}
-
-@media (max-width: 768px) {
-  .AClass {
-    flex-direction: column;
-  }
-  .AnotherClass {
-    display: block;
-  }
-}
-``` -->
-
-<!-- Inline code: `print()` -->
 
 Join me in this blog post as I delve into the intricacies of the Dev Academy multi-day final project.
 

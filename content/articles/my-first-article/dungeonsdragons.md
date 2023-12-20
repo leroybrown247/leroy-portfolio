@@ -16,8 +16,6 @@ keywords:
   - "Blog"
 ---
 
-<!-- Inline code: `print()` -->
-
 Embark on an epic group project where the quest is to roll the dice and unveil hilarious outcomes that mirror the whimsical experiences of developers. Our secret weapon? ChatGPT, the wizard of wit, who conjured up the most amusing scenarios.
 
 Gather your fellow players, assume your developer personas, and take turns rolling the dice to determine who reigns as the ultimate dev in the dungeon! May the code be ever in your favor!
