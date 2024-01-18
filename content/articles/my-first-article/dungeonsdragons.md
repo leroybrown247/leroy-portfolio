@@ -28,7 +28,7 @@ Pooling our diverse talents, we seamlessly transitioned into our designated role
 
 In the second leg of our odyssey, we delved into the captivating realm of design, where pixels and creativity merged to form a visual symphony. Leading the charge as the front-end maestro, I embarked on a Figma-fueled journey to sculpt a user interface that would seamlessly harmonise with our envisioned features and functionalities.
 
-![Bnanas Project Planning](../../images/dddesign.jpg "FAdobe XD planing and design structure [caption](https://konstantin.digital).")
+![Dungeons](../../images/dddesign.jpg "Adobe XD planing and design structure.")
 
 With a palette of AI-generated images at my disposal and the audacious dream of integrating a 3D dice into our project, I intricately wove these concepts into the fabric of the initial design. Every pixel and line of code bore the essence of our ambition, breathing life into a visual masterpiece that would soon captivate our audience. The stage was set, and the digital tapestry began to unfurl, revealing the magic of our collective imagination. Let the design enchantment commence!
 

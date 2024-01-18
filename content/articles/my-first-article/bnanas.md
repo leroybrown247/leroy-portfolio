@@ -26,11 +26,25 @@ Our approach involved creating a well-structured plan for the upcoming workdays.
 
 ## Wireframing, branding and front-end design.
 
-Opting for the versatile tool Figma, we meticulously crafted wireframes and designs that would set the visual tone for our e-commerce venture.
+Opting for the versatile tool Figma, we meticulously crafted wireframes and designs that would set the visual tone for our e-commerce venture. See the figma project here: 
 
-![Bnanas Project Planning](../../images/bnanasdesigning.jpg "Figma planing and design structure [caption](https://konstantin.digital).")
+#### [Bnanas Figma Project](https://www.figma.com/file/GEG5USzU64a4JDybEDEMsL/bnanas---E-Commerce-Web-Site?type=design&node-id=622%3A468&mode=design&t=zQczJDcQ2zDPFWOC-1)
 
-In the realm of branding and color schemes, we debated a variety of ideas, ultimately embracing a more minimalistic approach. Our goal was to ensure the website's navigation was intuitive and the overall user experience exuded seamlessness.
+![Bnanas Project Planning](../../images/bnana-blog-1.png)
+
+![Bnanas Project Planning](../../images/bnana-blog-8.png "The Mood Board was created with the input of the team.")
+
+![Bnanas Project Planning](../../images/bnana-blog-4.png "Wireframes were then created to define the fundamental use case of our project.")
+
+![Bnanas Project Planning](../../images/bnana-blog-2.png "We the created a style guide in order to manage the consistency of the project.")
+
+![Bnanas Project Planning](../../images/bnana-blog-5.png "We moved quickly into our Hifi version of our project applying our style guide and images.")
+
+![Bnanas Project Planning](../../images/bnana-blog-6.png "In order to define our interactive components we created multiple components and variants that could make our prototyping functional for the user.")
+
+![Bnanas Project Planning](../../images/bnana-blog-9.png "In our stretch challenges we then created mobile friendly components.")
+
+In the realm of branding and color schemes, we debated a variety of ideas, ultimately embracing a more minimalistic approach. Our goal was to ensure the website's navigation was intuitive and the overall user experience was seamless.
 
 ### Unveiling our full-stack app
 
