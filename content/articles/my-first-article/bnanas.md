@@ -30,19 +30,19 @@ Opting for the versatile tool Figma, we meticulously crafted wireframes and desi
 
 #### [Bnanas Figma Project](https://www.figma.com/file/GEG5USzU64a4JDybEDEMsL/bnanas---E-Commerce-Web-Site?type=design&node-id=622%3A468&mode=design&t=zQczJDcQ2zDPFWOC-1)
 
-![Bnanas Project Planning](../../images/bnana-blog-1.png)
+![Bnanas cover image](../../images/bnana-blog-1.png)
 
-![Bnanas Project Planning](../../images/bnana-blog-8.png "The Mood Board was created with the input of the team.")
+![Bnanas Moodboard](../../images/bnana-blog-3.png "The Mood Board was created with the input of the team.")
 
-![Bnanas Project Planning](../../images/bnana-blog-4.png "Wireframes were then created to define the fundamental use case of our project.")
+![Bnanas Wireframes](../../images/bnana-blog-4.png "Wireframes were then created to define the fundamental use case of our project.")
 
-![Bnanas Project Planning](../../images/bnana-blog-2.png "We the created a style guide in order to manage the consistency of the project.")
+![Bnanas Style guide](../../images/bnana-blog-2.png "We the created a style guide in order to manage the consistency of the project.")
 
-![Bnanas Project Planning](../../images/bnana-blog-5.png "We moved quickly into our Hifi version of our project applying our style guide and images.")
+![Bnanas Hifi](../../images/bnana-blog-5.png "We moved quickly into our Hifi version of our project applying our style guide and images.")
 
-![Bnanas Project Planning](../../images/bnana-blog-6.png "In order to define our interactive components we created multiple components and variants that could make our prototyping functional for the user.")
+![Bnanas Variants](../../images/bnana-blog-6.png "In order to define our interactive components we created multiple components and variants that could make our prototyping functional for the user.")
 
-![Bnanas Project Planning](../../images/bnana-blog-9.png "In our stretch challenges we then created mobile friendly components.")
+![Bnanas Mobile](../../images/bnana-blog-7.png "In our stretch challenges we then created mobile friendly components.")
 
 In the realm of branding and color schemes, we debated a variety of ideas, ultimately embracing a more minimalistic approach. Our goal was to ensure the website's navigation was intuitive and the overall user experience was seamless.
 
@@ -50,7 +50,9 @@ In the realm of branding and color schemes, we debated a variety of ideas, ultim
 
 Embark on the triumphant culmination of our journey as we proudly unveil the fully realised front and back ends of our e-commerce application.
 
-![Bnanas Presentation](../../images/bnanapresentation.jpg "Project presentation [caption](https://konstantin.digital).")
+![Presentation](../../images/bnanapresentation.jpg "Our team attempt to win over the crowd with our newly developed e-commerce store.")
+
+![E-commerce flow](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2J2emo0cTNrdHgyeGtmNXRhZTdkOTQxMnVvM2h5cDJ4MDBia29ldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbpQKl37VlFJFZWPJs/giphy.gif "E-commerce flow")
 
 Having adeptly navigated the challenges, we found ourselves ahead of schedule. This fortuitous circumstance allowed us the luxury of refining every detail, addressing any lingering bugs, and polishing features that warranted additional attention.
 
