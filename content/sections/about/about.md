@@ -12,6 +12,6 @@ Ko Ngapuhi te Iwi.
 Ko Ngati Hine te Hapu.
 Ko Leroy Brown toku Ingoa.
 
-Kia ora! I'm a Software Developer with over a decade of diverse experience in design, marketing and website management. Holding a Bachelor of Creative Technologies from Auckland University of Technology and recently completing a New Zealand Certificate in Applied Software Development through Dev Academy Aotearoa.
+As a Frontend Developer / Designer I aspire to evolve my skills as a Full Stack Web Developer, crafting innovative web and app solutions. My long-term vision includes seamlessly incorporating Te Reo Māori and Māori culture into my work, creating digital experiences that not only showcase technical proficiency but also celebrate and promote the richness of our heritage. I am dedicated to merging technological innovation with cultural diversity, contributing to a more inclusive and interconnected digital landscape.
 
 
