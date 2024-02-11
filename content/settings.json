@@ -21,8 +21,9 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
         { "label": "Work", "url": "/#features" },
+        { "label": "Design", "url": "https://leroybrowncreative.myportfolio.com" },
+        { "label": "Blog", "url": "/blog" },
         { "label": "Github", "url": "/#github" }
       ],
       "ctaButton": {
